@@ -1,5 +1,5 @@
 # DexPut
-
+![image](https://github.com/Symbolexe/DexPut/assets/140549630/6c67d37e-1622-468f-a344-928f21816ad0)
 DexPut is a command-line tool written in Go for generating various hashes (MD5, SHA-1, SHA-256, SHA-512, SHA-3, BLAKE2, RIPEMD-160, and MD4) for a given text. It provides an interactive mode, allows selection of specific hashes, and includes benchmarking capabilities.
 
 ## Features
